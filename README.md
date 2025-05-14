@@ -20,5 +20,5 @@ Es un pequeño programa que convierte el valor de la moneda deseada en otras a t
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1BrgY1ghc3ECfdqd7pBK8k5e7H5hKnEng/view?usp=sharing)
+![App Screenshot](https://drive.google.com/file/d/1BrgY1ghc3ECfdqd7pBK8k5e7H5hKnEng/view?usp=sharing](https://drive.google.com/file/d/1BrgY1ghc3ECfdqd7pBK8k5e7H5hKnEng/view?usp=sharing)
 
